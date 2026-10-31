@@ -1,0 +1,11 @@
+{
+  "source": "EXAMPLE ONLY, not advice: five large NIFTY 50 stocks with made-up weights (not the index's own weights)",
+  "note": "Replace these with your own list. A weight is a share of the money, renormalised to 100 over the stocks you keep.",
+  "weights": [
+    {"symbol": "RELIANCE", "name": "Reliance Industries", "weight": 30},
+    {"symbol": "HDFCBANK", "name": "HDFC Bank", "weight": 25},
+    {"symbol": "ICICIBANK", "name": "ICICI Bank", "weight": 20},
+    {"symbol": "INFY", "name": "Infosys", "weight": 15},
+    {"symbol": "TCS", "name": "Tata Consultancy Services", "weight": 10}
+  ]
+}

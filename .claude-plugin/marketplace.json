@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "india-trader-skill",
+  "description": "The India Trader skill pack for Claude: the Day Trader skill v2 ported to NSE intraday and Zerodha Kite",
+  "owner": {
+    "name": "India port of Jake Schincariol's Day Trader skill"
+  },
+  "plugins": [
+    {
+      "name": "india-trader-skill",
+      "description": "Eleven Claude skills for NSE intraday trading: a chart scanner, an NSE news and filings monitor, an entry timer, an exit planner, a time machine that replays 10,000 sessions, a risk manager, a budget manager with Zerodha charges, an order executor for Zerodha Kite (paper by default, never without your yes), price alerts, an earnings analyst and a bulk-deal and insider-trading tracker.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/mananshah817/trader-skill-in"
+    }
+  ]
+}

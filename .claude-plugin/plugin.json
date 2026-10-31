@@ -1,0 +1,24 @@
+{
+  "name": "india-trader-skill",
+  "description": "11 Claude skills for intraday trading on NSE: scan thousands of charts, track NSE filings and news, time every entry and exit, and replay every outcome before you risk a rupee.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jake Schincariol (original US pack); India port",
+    "url": "https://github.com/Jakeschincariol/day-trader-skill"
+  },
+  "homepage": "https://github.com/mananshah817/trader-skill-in",
+  "repository": "https://github.com/mananshah817/trader-skill-in",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "intraday",
+    "nse",
+    "india",
+    "zerodha",
+    "kite",
+    "opening-range-breakout",
+    "paper-trading"
+  ],
+  "skills": "./"
+}

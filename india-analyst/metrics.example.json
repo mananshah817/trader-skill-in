@@ -1,0 +1,41 @@
+{
+  "as_of": "2026-10-31",
+  "companies": [
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank Limited",
+      "basis": "consolidated",
+      "period_end": "2026-09-30",
+      "fiscal": "Q2 FY27",
+      "top_line": "total income",
+      "top_line_ttm": 5063162600000.0,
+      "net_profit_ttm": 801021300000.0,
+      "eps_ttm": 51.88,
+      "top_line_growth_yoy": 9.1,
+      "net_profit_growth_yoy": 5.6,
+      "eps_growth_yoy": 5.5,
+      "operating_margin": 25.4,
+      "operating_measure": "operating profit before provisions",
+      "net_margin": 16.0,
+      "source": "NSE results filings (XBRL)"
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "RELIANCE INDUSTRIES LIMITED",
+      "basis": "consolidated",
+      "period_end": "2026-09-30",
+      "fiscal": "Q2 FY27",
+      "top_line": "revenue",
+      "top_line_ttm": 12128280000000.0,
+      "net_profit_ttm": 821100000000.0,
+      "eps_ttm": 60.68,
+      "top_line_growth_yoy": 28.6,
+      "net_profit_growth_yoy": 40.6,
+      "eps_growth_yoy": 40.7,
+      "operating_margin": 17.0,
+      "operating_measure": "EBITDA (derived)",
+      "net_margin": 7.7,
+      "source": "NSE results filings (XBRL)"
+    }
+  ]
+}
